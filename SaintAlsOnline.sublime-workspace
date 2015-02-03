@@ -1,0 +1,766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"merck-gr",
+				"merck-gray-dk"
+			],
+			[
+				"merck-gray",
+				"merck-gray-dk"
+			],
+			[
+				"merck-",
+				"merck-teal"
+			],
+			[
+				"merck",
+				"merck-teal"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"sh",
+				"show-for-small"
+			],
+			[
+				"chart",
+				"chart-container"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"logo",
+				"logo-my-work"
+			],
+			[
+				"hide",
+				"hide-for-small"
+			],
+			[
+				"webcast",
+				"webcastmws"
+			],
+			[
+				"Communit",
+				"Communities"
+			],
+			[
+				"comm",
+				"communities-list"
+			],
+			[
+				"communities",
+				"communities-search"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"men",
+				"menu-open"
+			],
+			[
+				"use",
+				"useful_tips"
+			],
+			[
+				"mobile",
+				"mobile_devices"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"lef",
+				"border-left"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"c",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/markdisciullo/Dev Environments/Saint Aloysius/saintaloysius/scss/app.scss",
+			"settings":
+			{
+				"buffer_size": 1503,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: in	",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/markdisciullo/Dev Environments/SaintAlsOnline"
+	],
+	"file_history":
+	[
+		"/Users/markdisciullo/Dev Environments/Saint Aloysius/saintaloysius/stylesheets/app.css",
+		"/Users/markdisciullo/Dev Environments/Saint Aloysius/saintaloysius/bower_components/foundation/scss/foundation.scss",
+		"/Users/markdisciullo/Dev Environments/Saint Aloysius/saintaloysius/bower_components/foundation/scss/foundation/components/_type.scss",
+		"/Users/markdisciullo/Dev Environments/Saint Aloysius/saintaloysius/bower_components/foundation/scss/foundation/components/_top-bar.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/views/terms_and_conditions/term_details.html.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/sections/_communities.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/community/stewards.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/libraries/_variables.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/workbench/index.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/sections/_my_workbench.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/my_work/home_page_carousel.js.coffee.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/images/icon-collaborate-color.svg",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/owl.carousel.min.js",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/thread.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/views/index_view.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/sections/_sign-in.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/vendor/foundation/_foundation_settings.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/project_overview.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/sections/metrics/_index.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/lib/shims/sync2_api/cloudsearch_response.json",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/enterprise_results.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/best_bet_results.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/cloudsearch_results.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/search_suggestions.hbs",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/components/header/_search-dropdown.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/application.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/libraries/_buttons.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/helpers/date.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/search.hbs",
+		"/Users/markdisciullo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/news.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/home/_workbench.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/workbench.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/router.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/index.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/store.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/views/community_view.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/controllers/application_controller.js.coffee.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/environment.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/application.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/libraries/_icons.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/components/header/_main-navigation.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/article.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/libraries/_fonts.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/community_discussions.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/community_discussion.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/views/thread_view.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/routes/index_route.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/routes/community_index_route.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/routes/community_discussion_thread_route.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/routes/communities_discussions_route.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/routes/application_route.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/libraries/_layout.scss",
+		"/Users/markdisciullo/Google Drive/CLIENT PROJECTS/Merck/Sync 2.0/MMD/activity-feed.xml",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/communities/activity.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/sections/_styleguide.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/libraries/_mixins.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/libraries/_reset.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/libraries/_ie.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/sections/_details.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/project_document_details.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/loading.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/images/logo-my-work.svg",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/components/_header.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/sections/_news.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/pages/_favorites.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/workbench_charts.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/sections/_non_beta.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/sections/_error.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/project.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/pages/_chart-container.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/controllers/application_controller.rb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/my_work/analytics.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/pages/_mydata.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/views/kss/home/index.html.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/views/kss/home/styleguide.html.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/project_documents.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/project_document_comments.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/components/_charting.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/models/link.js.coffee.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/application.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/controllers/workbench_index.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/controllers/required_links.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/program_one_thousand.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/vendor/ember-charts.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/sections/_home.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/views/terms_and_conditions/prompt.html.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/components/_footer.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/my_work/feedback.js.coffee.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/views/feedbacks/new.html.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/spec/vcr/program1000/applications.yml",
+		"/Users/markdisciullo/Dev Environments/markdisciullo/README.md",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/workbench/sidebar.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/views/index.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/lib/sync2_api/billboard.rb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/lib/shims/sync2_api/billboard_response.json",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/controllers/workbench.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/views/file_upload.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/views/program_one_thousand.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/controllers/program_one_thousand.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/models/program_one_thousand_summary.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/my_work/init.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/controllers/index.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/communities.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/libraries/_colors.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/my_work/workbench.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/coverage/index.html",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/views/workbench.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/components/_news_carousel.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/components/_feedback.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/views/layouts/application.html.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/views/layouts/sign_in.html.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/helpers/.workbench-aside-chart",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/sync2/main.js.coffee",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/not_found.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/error.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/public/maintenance.html",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/views/devise/sessions/new.html.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/controllers/feedbacks_controller.rb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/components/_alerts.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/my_work/feedback.coffee.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/public/500.html",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/public/422.html",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/public/404.html",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/public/images/communities-10.png",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/stylesheets/sections/_my_workplace.scss",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/templates/workplace.hbs.erb",
+		"/Users/markdisciullo/Dev Environments/myWork/sync2/app/assets/javascripts/controllers/workplace.js.coffee"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open folders> *.scss",
+			"<open folders>",
+			"<open folders>,*.scss",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"december 2014",
+			"steward",
+			"program-header",
+			"find out how",
+			"your myWork privacy",
+			"Privacy Notice for myWork: Pilot",
+			"news-default-03.png",
+			"!important",
+			"board-list",
+			"comments-section",
+			"<div class=\"post\">",
+			"post",
+			"div",
+			"community-posts",
+			"communities-posts",
+			".post",
+			"terms-box",
+			"global workforce",
+			"best-bets",
+			"enterprisesearch",
+			"Enhanced Workbench.xlsx",
+			"ProjectComment",
+			"size",
+			"background-image",
+			"content: \"",
+			"content",
+			"icon",
+			"searchSuggestions",
+			"type",
+			"enterprisesearch-results",
+			"link",
+			"sharepoint-date",
+			"f-dropdown",
+			":hover",
+			"li:hover",
+			"enterpriseSearchLoading",
+			"class=\"download\"",
+			"img",
+			"button",
+			"content-scroll-container",
+			"loader",
+			"image",
+			"logo-my-work.svg",
+			"logo-mywork.svg",
+			"@size",
+			"}\n",
+			"type",
+			"list-section",
+			"cloudsearchloading",
+			"enterprisesearchloading",
+			"app.router.map",
+			"worker",
+			"navigation-menu",
+			"\\e61e",
+			"&.filter-on",
+			"I've shared a MyWork discussion topic with you.",
+			"e6",
+			"e61b",
+			"e62f",
+			"<h4>",
+			"<h3>",
+			"h1",
+			"<h1>",
+			"h1",
+			"e613",
+			"background-image",
+			"icon-this-community",
+			"share-this",
+			"e619",
+			"add-comments",
+			"padding: 0 0 15px 24px;",
+			".file-details",
+			".my-workbench-content .my-workbench-detail .details-header .file-details li",
+			"project_document_details",
+			"Privacy Notice for myWork: Pilot Launch",
+			"logo-title",
+			"scorecard",
+			"ul",
+			"h4",
+			"suggested",
+			"charts",
+			"image_tag",
+			"imaage_tag",
+			"Icon mylinks white",
+			"msps-card",
+			"def style",
+			"cases",
+			"mywork",
+			"content",
+			"img",
+			"button",
+			"image",
+			"image-tag",
+			"head",
+			"msps",
+			"msps-card",
+			"link-modal",
+			"chart-total",
+			"non-beta",
+			"link-titles",
+			"my-workbench-content",
+			"health",
+			"excerpt",
+			"{{excerpt}}",
+			"beta",
+			"myprograms",
+			"rect",
+			"chart-vertical-bar",
+			"container",
+			"removelink",
+			"add",
+			"helpdesks",
+			"checkbox",
+			"disabled",
+			".button[disabled]",
+			"terms-box",
+			"Privacy Notice for myWork: Pilot Launch",
+			"margin-left: 50px;",
+			"status",
+			"my-workbench-content",
+			"If you are experiencing any technical problems or issues",
+			"feedback",
+			"SRVMyWorkSVC",
+			"disciulm",
+			"admin",
+			"application.yml",
+			"subfooter-row",
+			"excerpt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&#xe009;",
+			"&#xe600;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/markdisciullo/Dev Environments/Saint Aloysius/saintaloysius/scss/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1503,
+						"regions":
+						{
+							"gutter_color_1484":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#e9e9e9.png",
+								"regions":
+								[
+									[
+										1484,
+										1501
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								1503,
+								1503
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"project": "SaintAlsOnline.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"workp",
+				"sync2/app/assets/javascripts/controllers/workplace.js.coffee"
+			],
+			[
+				"workplace",
+				"templates/workplace.hbs.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 382.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
